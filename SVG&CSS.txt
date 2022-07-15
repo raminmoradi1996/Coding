@@ -1,0 +1,12 @@
+SVG Waves	https://getwaves.io	Live Demo
+SVG Blobs	https://www.blobmaker.app	Live Demo
+SVG Background	https://www.svgbackgrounds.com	Live Demo
+Glasmorphism	https://hype4.academy/tools/glassmorphism-generator	Live Demo
+Fancy Border Radius	https://9elements.github.io/fancy-border-radius	Live Demo
+Neomorphism	https://neumorphism.io	Live Demo
+CSS Shadow	https://shadows.brumm.af	Live Demo
+CSS Grid	https://cssgrid-generator.netlify.app	Live Demo
+Pattern Background	https://heropatterns.com	Live Demo
+CSS Gradient	https://cssgradient.io	Live Demo
+
+clip-path   https://bennettfeely.com/clippy/
